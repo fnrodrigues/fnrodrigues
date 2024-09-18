@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnrodrigues&show_icons=true&theme=dark&hide_border=true)
+<a href="https://github.com/fnrodrigues/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fnrodrigues" />
+</a>
+<a href="https://github.com/fnrodrigues/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnrodrigues&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnrodrigues&hide_progress=true&layout=compact&border_radius=50&theme=dark&hide_border=true)
+
+![Top Langs](https://fnrodrigues-git-main-fnrodrigues-projects.vercel.app/api/top-langs/?username=fnrodrigues&hide_progress=true&layout=compact&border_radius=50&theme=dark&hide_border=true)
