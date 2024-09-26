@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h4>Stats Public Github</h4>
 <table border="0" style="border: none!important; border-collapse: collapse;">
-  <td style="border: none!important;"><img height=200 align="center" src="https://github-readme-stats-git-master-fnrodrigues-projects.vercel.app/api?username=fnrodrigues&show_icons=true&hide_border=true&bg_color=00000000&theme=transparent&custom_title=" /></td>
-  <td style="border: none!important;"><img height=100 align="center" src="https://github-readme-stats-git-master-fnrodrigues-projects.vercel.app/api/top-langs?username=fnrodrigues&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=transparent&custom_title=" /></td>
+  <td style="border: none!important;"><img height=200 align="center" src="https://github-readme-stats-eight-iota-75.vercel.app/api?username=fnrodrigues&show_icons=true&hide_border=true&bg_color=00000000&theme=transparent&custom_title=" /></td>
+  <td style="border: none!important;"><img height=100 align="center" src="https://github-readme-stats-eight-iota-75.vercel.app/api/top-langs?username=fnrodrigues&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=transparent&custom_title=" /></td>
 </table>
 
   
